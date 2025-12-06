@@ -1,0 +1,100 @@
+1,Arduino Uno,45
+2,Raspberry Pi 4,30
+3,Servo Motor SG90,74
+4,DC Motor 12V,56
+5,Stepper Motor NEMA 17,23
+6,Ultrasonic Sensor HC-SR04,67
+7,Joystick Module,34
+8,LED Pack,89
+9,Resistor Kit,120
+10,Capacitor Set,95
+11,16x2 LCD Display,41
+12,GPIO Expansion Board,29
+13,Motor Driver L298N,38
+14,Accelerometer MPU-6050,52
+15,Bluetooth Module HC-05,47
+16,WiFi Module ESP8266,63
+17,IR Sensor,71
+18,Potentiometer 10K,84
+19,Breadboard,112
+20,Jumper Wires,200
+21,Robot Chassis Kit,18
+22,Camera Module,25
+23,Relay Module,39
+24,Voltage Regulator,66
+25,Force Sensor,28
+26,Gyroscope,31
+27,Compass Sensor,22
+28,Temperature Sensor,58
+29,Humidity Sensor,44
+30,Pressure Sensor,27
+31,MicroSD Card Reader,36
+32,Speaker 8Ω,49
+33,Microphone Sensor,33
+34,Line Follower Sensor,37
+35,Color Sensor,19
+36,Flex Sensor,24
+37,Gas Sensor,15
+38,Water Sensor,37
+39,Tilt Sensor,29
+40,RFID Reader,21
+41,Solenoid Valve,13
+42,Power Supply 12V,35
+43,Battery Pack,57
+44,Solar Panel,16
+45,USB Cable,88
+46,Ethernet Shield,26
+47,GPS Module,17
+48,7-Segment Display,54
+49,Dot Matrix Display,32
+50,OLED Screen,23
+51,Touch Screen,14
+52,Rotor Blades,46
+53,Gripper Kit,20
+54,Wheel Encoder,28
+55,Metal Gear Servo,41
+56,Linear Actuator,25
+57,Ball Bearing Set,79
+58,Timing Belt,43
+59,Robot Arm Kit,11
+60,Conveyor Belt,9
+61,Infrared Remote,55
+62,Joystick Shield,30
+63,Motor Shield,28
+64,Sensor Shield,45
+65,Prototyping Board,60
+66,IC Socket,72
+67,Labubu, 9999
+68,Diode Set,91
+69,PCB Board,38
+70,Soldering Kit,27
+71,Oscilloscope Probe,14
+72,Logic Analyzer,8
+73,Multimeter,22
+74,Heat Sink,49
+75,Cooling Fan,57
+76,Wire Stripper,33
+77,Crimping Tool,25
+78,Screw Set,140
+79,Nut and Bolt Kit,160
+80,Standoff Set,75
+81,Robot Wheel,68
+82,Caster Wheel,42
+83,Tank Track,19
+84,Universal Joint,26
+85,Gear Set,53
+86,Sprocket,37
+87,Chain,44
+88,Coupler,39
+89,Shaft Collar,61
+90,Linear Bearing,29
+91,End Effector,21
+92,Endoscope Camera,7
+93,Laser Sensor,12
+94,Proximity Sensor,48
+95,Photoelectric Sensor,35
+96,Encoder Disk,41
+97,Magnetic Switch,33
+98,Vibration Motor,59
+99,Stepper Driver,31
+100,Robotics Book,49
